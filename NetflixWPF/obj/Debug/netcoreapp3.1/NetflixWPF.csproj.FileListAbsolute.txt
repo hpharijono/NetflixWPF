@@ -1,0 +1,16 @@
+C:\Users\Harris\Desktop\Personal\NetflixWPF\NetflixWPF\bin\Debug\netcoreapp3.1\NetflixWPF.exe
+C:\Users\Harris\Desktop\Personal\NetflixWPF\NetflixWPF\bin\Debug\netcoreapp3.1\NetflixWPF.deps.json
+C:\Users\Harris\Desktop\Personal\NetflixWPF\NetflixWPF\bin\Debug\netcoreapp3.1\NetflixWPF.runtimeconfig.json
+C:\Users\Harris\Desktop\Personal\NetflixWPF\NetflixWPF\bin\Debug\netcoreapp3.1\NetflixWPF.runtimeconfig.dev.json
+C:\Users\Harris\Desktop\Personal\NetflixWPF\NetflixWPF\bin\Debug\netcoreapp3.1\NetflixWPF.dll
+C:\Users\Harris\Desktop\Personal\NetflixWPF\NetflixWPF\bin\Debug\netcoreapp3.1\NetflixWPF.pdb
+C:\Users\Harris\Desktop\Personal\NetflixWPF\NetflixWPF\obj\Debug\netcoreapp3.1\HomePage.g.cs
+C:\Users\Harris\Desktop\Personal\NetflixWPF\NetflixWPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Harris\Desktop\Personal\NetflixWPF\NetflixWPF\obj\Debug\netcoreapp3.1\NetflixWPF_MarkupCompile.cache
+C:\Users\Harris\Desktop\Personal\NetflixWPF\NetflixWPF\obj\Debug\netcoreapp3.1\NetflixWPF_MarkupCompile.lref
+C:\Users\Harris\Desktop\Personal\NetflixWPF\NetflixWPF\obj\Debug\netcoreapp3.1\HomePage.baml
+C:\Users\Harris\Desktop\Personal\NetflixWPF\NetflixWPF\obj\Debug\netcoreapp3.1\NetflixWPF.g.resources
+C:\Users\Harris\Desktop\Personal\NetflixWPF\NetflixWPF\obj\Debug\netcoreapp3.1\NetflixWPF.AssemblyInfoInputs.cache
+C:\Users\Harris\Desktop\Personal\NetflixWPF\NetflixWPF\obj\Debug\netcoreapp3.1\NetflixWPF.AssemblyInfo.cs
+C:\Users\Harris\Desktop\Personal\NetflixWPF\NetflixWPF\obj\Debug\netcoreapp3.1\NetflixWPF.dll
+C:\Users\Harris\Desktop\Personal\NetflixWPF\NetflixWPF\obj\Debug\netcoreapp3.1\NetflixWPF.pdb

@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Images\netflix-bg.jpg" />
+    <None Remove="Assets\Images\netflix-enjoy.png" />
+    <None Remove="Assets\Images\netflix.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Home\" />
+    <Folder Include="Views\Films\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Images\netflix-bg.jpg" />
+    <Resource Include="Assets\Images\netflix-enjoy.png" />
+    <Resource Include="Assets\Images\netflix.jpg" />
+  </ItemGroup>
+
+</Project>
